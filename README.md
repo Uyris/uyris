@@ -7,7 +7,7 @@
 ## 📫 How to reach me
 
 📧 yurihcs@al.insper.edu.br 
-🌐 [LinkedIn](https://www.linkedin.com/in/yuri-henrique-33ba1a340/) | [Instagram](https://www.instagram.com/iancdesponds) | [GitHub](https://github.com/Uyris)
+🌐 [LinkedIn](https://www.linkedin.com/in/yuri-henrique-33ba1a340/) | [GitHub](https://github.com/Uyris)
 
 ---
 
