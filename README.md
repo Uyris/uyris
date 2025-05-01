@@ -1,4 +1,4 @@
-# Yuri Henrique
+# 👋 Hi there! Yuri Henrique
 
 🎓 **Computer Science Student** | 💻 **Full Stack Developer**  
 
