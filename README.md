@@ -1,7 +1,6 @@
 # Yuri Henrique
 
 🎓 **Computer Science Student** | 💻 **Full Stack Developer**  
-🌱 Currently deepening my knowledge in **Artificial Intelligence** and **Machine Learning**
 
 ---
 
