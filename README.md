@@ -33,14 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 🚀 Highlight Projects
-
-### 🧠 **GAS Exercise Platform – Insper**
-
-### 🏙️ **Urban Research PWA – Placemaking**
-
-### 🧩 **Portal AI**
-
 ## 🌐 Community & Activities
 
 - 🎯 Member of **Insper Code** and **Insper Fintech**
@@ -54,3 +46,10 @@
 
 ---
 
+## 🚀 Highlight Projects
+
+### 🧠 **GAS Exercise Platform – Insper**
+
+### 🏙️ **Urban Research PWA – Placemaking**
+
+### 🧩 **Portal AI**
