@@ -61,4 +61,4 @@
 
 ## 🎨 I like drawing
 
-![Imagem do WhatsApp de 2025-04-30 à(s) 22 05 12_37055aec](https://github.com/user-attachments/assets/dda51732-0fda-4376-9d0a-533b5d1656d9)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
