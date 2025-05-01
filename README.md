@@ -61,4 +61,5 @@
 
 ## 🎨 I like drawing
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Imagem do WhatsApp de 2025-04-30 à(s) 22 05 12_c53a1b6a](https://github.com/user-attachments/assets/ff38ce15-1e8c-40b6-8fde-1eae3b20fc0e)
+
