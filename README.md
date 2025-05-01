@@ -33,8 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
 ## 🚀 Highlight Projects
 
 ### 🧠 **GAS Exercise Platform – Insper**
@@ -43,16 +41,12 @@
 
 ### 🧩 **Portal AI**
 
----
-
 ## 🌐 Community & Activities
 
 - 🎯 Member of **Insper Code** and **Insper Fintech**
 - 🧠 Teaching Assistant for **DevLife** course
 - 🤝 Active in tech events and developer communities
 - 📚 Self-learning in backend development, AI, and software architecture
-
----
 
 ## 🎨 I like drawing
 
