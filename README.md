@@ -62,16 +62,6 @@ Academic project developed with:
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**Languages:** Python, JavaScript, SQL  
-**Frameworks:** FastAPI, Flask, Django, React, Next.js  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Git/GitHub, CI/CD, Docker, Render, Vercel  
-**Others:** Figma, Postman, Redis
-
----
-
 ## 🌐 Community & Activities
 
 - 🎯 Member of **Insper Code** and **Insper Fintech**
@@ -80,3 +70,9 @@ Academic project developed with:
 - 📚 Self-learning in backend development, AI, and software architecture
 
 ---
+
+## 🎨 I like drawing
+
+Outside of programming, I enjoy expressing creativity through drawing. It helps me stay inspired, focused, and balanced — whether sketching ideas for UI/UX or just creating for fun.
+
+![Imagem do WhatsApp de 2025-04-30 à(s) 22 05 12_37055aec](https://github.com/user-attachments/assets/dda51732-0fda-4376-9d0a-533b5d1656d9)
