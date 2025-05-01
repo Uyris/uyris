@@ -43,22 +43,10 @@
 ## 🚀 Highlight Projects
 
 ### 🧠 **GAS Exercise Platform – Insper**
-A web application for high school students from the NGO Somar, featuring:
-- Multiple choice and coding exercises with automatic correction
-- Backend in **FastAPI**, frontend in **React (Material UI)**
-- Authentication, performance tracking, and weekly content release
 
 ### 🏙️ **Urban Research PWA – Placemaking**
-Progressive web app in partnership with the Architecture and Urbanism team:
-- Backend built with **FastAPI** (hosted on Render)
-- Frontend using **Next.js** (hosted on Vercel)
-- Mobile/tablet/desktop-friendly interface for field data collection
 
 ### 🧩 **Portal AI**
-Academic project developed with:
-- **Django** backend
-- Frontend using **HTML, CSS, and JS**
-- Organized using agile methodologies (Scrum/Kanban)
 
 ---
 
@@ -72,7 +60,5 @@ Academic project developed with:
 ---
 
 ## 🎨 I like drawing
-
-Outside of programming, I enjoy expressing creativity through drawing. It helps me stay inspired, focused, and balanced — whether sketching ideas for UI/UX or just creating for fun.
 
 ![Imagem do WhatsApp de 2025-04-30 à(s) 22 05 12_37055aec](https://github.com/user-attachments/assets/dda51732-0fda-4376-9d0a-533b5d1656d9)
