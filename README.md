@@ -40,8 +40,6 @@
 - 🤝 Active in tech events and developer communities
 - 📚 Self-learning in backend development, AI, and software architecture
 
----
-
 ## 🚀 Highlight Projects
 
 ### 🧠 **GAS Exercise Platform – Insper**
