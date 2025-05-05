@@ -5,7 +5,7 @@
 ## 📫 How to reach me
 
 📧 yurihcs@al.insper.edu.br 
-🌐 [LinkedIn](https://www.linkedin.com/in/yuri-henrique-33ba1a340/){:target="_blank" rel="noopener noreferrer"} | [GitHub](https://github.com/Uyris){:target="_blank" rel="noopener noreferrer"}
+🌐 <a href="https://www.linkedin.com/in/yuri-henrique-33ba1a340/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/Uyris" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ## 🛠️ Languages & Tools
 
