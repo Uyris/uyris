@@ -42,7 +42,8 @@
 
 ## 🎨 I like drawing
 
-![Imagem do WhatsApp de 2025-04-30 à(s) 22 05 12_c53a1b6a (1)](https://github.com/user-attachments/assets/fd73beae-84d3-45f0-981e-18d1d0a66c2a)
+![shiva 2](https://github.com/user-attachments/assets/40196651-2eea-4fc8-a025-3c3b989f8f09)
+
 
 ---
 
