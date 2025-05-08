@@ -51,8 +51,3 @@
 ### 🏙️ **Urban Research PWA – Placemaking**
 
 ### 🧩 **Portal AI**
-
----
-## 🎨 I like drawing
-
-![shiva 2](https://github.com/user-attachments/assets/40196651-2eea-4fc8-a025-3c3b989f8f09)
