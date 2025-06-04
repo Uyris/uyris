@@ -1,4 +1,4 @@
-# 👋 Hi there! Yuri Henrique
+# 👋 Hi there! I'm Yuri Henrique
 
 🎓 **Computer Science Student** | 💻 **Full Stack Developer**  
 
