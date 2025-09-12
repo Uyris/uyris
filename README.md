@@ -1,13 +1,18 @@
-# 👋 Hi there! I'm Yuri Henrique
+# 👋 Hi there! I'm Yuri Henrique  
 
-🎓 **Computer Science Student** | 💻 **Full Stack Developer**  
+🎓 **Computer Science Student @ Insper (3º semestre, CR1 – top of the class)**  
+💻 **Full Stack Developer** | 🔬 **Scientific Researcher (AI & Intelligent Systems)**  
 
-## 📫 How to reach me
+---
 
-📧 yurihcs@al.insper.edu.br 
-🌐 <a href="https://www.linkedin.com/in/yuri-henrique-33ba1a340/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/Uyris" target="_blank" rel="noopener noreferrer">GitHub</a>
+## 📫 How to reach me  
 
-## 🛠️ Languages & Tools
+📧 yurihcs@al.insper.edu.br  
+🌐 <a href="https://www.linkedin.com/in/yuri-henrique-33ba1a340/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/Uyris" target="_blank" rel="noopener noreferrer">GitHub</a>  
+
+---
+
+## 🛠️ Languages & Tools  
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
@@ -37,17 +42,37 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
-## 🌐 Community & Activities
+---
 
-- 🎯 Member of **Insper Code** and **Insper Fintech**
-- 🧠 Teaching Assistant for **DevLife** course
-- 🤝 Active in tech events and developer communities
-- 📚 Self-learning in backend development, AI, and software architecture
+## 🌐 Community & Activities  
 
-## 🚀 Highlight Projects
+- 🎯 Member of **Insper Code** and **Insper Fintech**  
+- 🧑‍🏫 Teaching Assistant for **DevLife** course  
+- 🔬 Completed **Scientific Research in Intelligent Systems** (Insper)  
+- 🤝 Active in tech events and developer communities  
+- 📚 Constant self-learning in web apps, AI, and software architecture  
 
-### 🧠 **GAS Exercise Platform – Insper**
+---
 
-### 🏙️ **Urban Research PWA – Placemaking**
+## 🚀 Highlight Projects  
 
-### 🧩 **Portal AI**
+### 🧠 **GAS Exercise Platform – Insper**  
+- Web platform for high school students using **React + FastAPI**.  
+- Features: interactive exercises, automatic correction, and performance dashboard.  
+
+### 🏙️ **Urban Research PWA – Placemaking**  
+- Progressive Web App for urban data collection and visualization.  
+- Built with **Go backend** and **Next.js frontend**, deployed on **Vercel**.  
+
+### 🎵 **SoundMorph**  
+- Web app for downloading videos and separating audio using **AI models**.  
+- **FastAPI backend** + **React/Next.js frontend**, media storage on **Supabase**.  
+
+### 🥗 **EasyDiet**  
+- Personalized diet application with **FatSecret API** integration.  
+- **Flask backend** + **React/Next.js frontend**, with PostgreSQL database.  
+
+### 🧩 **Portal AI**  
+- Web application built with **Python + Django**, focused on AI-assisted content management.  
+
+---
