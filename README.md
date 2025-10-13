@@ -16,6 +16,7 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -56,9 +57,6 @@
 
 ## 🚀 Highlight Projects  
 
-### 🧠 **GAS Exercise Platform – Insper**  
-- Web platform for high school students using **React + FastAPI**.  
-- Features: interactive exercises, automatic correction, and performance dashboard.  
 
 ### 🏙️ **Urban Research PWA – Placemaking**  
 - Progressive Web App for urban data collection and visualization.  
@@ -68,11 +66,7 @@
 - Web app for downloading videos and separating audio using **AI models**.  
 - **FastAPI backend** + **React/Next.js frontend**, media storage on **Supabase**.  
 
-### 🥗 **EasyDiet**  
-- Personalized diet application with **FatSecret API** integration.  
-- **Flask backend** + **React/Next.js frontend**, with PostgreSQL database.  
-
-### 🧩 **Portal AI**  
-- Web application built with **Python + Django**, focused on AI-assisted content management.  
+### 🧩 **FastTracker HP**  
+- Web application built with **FastAPI + React**, focused on AI-assisted content management.  
 
 ---
