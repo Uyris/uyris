@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Yuri Henrique  
 
-🎓 **Computer Science Student @ Insper (3º semestre, CR1 – top of the class)**  
+🎓 **Computer Science Student @ Insper (4º semestre, CR1 – top of the class)**  
 💻 **Full Stack Developer Vault Capital** | 🔬 **Scientific Researcher (AI & Intelligent Systems)**
 
 ---
