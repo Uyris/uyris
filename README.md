@@ -47,8 +47,7 @@
 
 ## 🌐 Community & Activities  
 
-- 🎯 Member of **Insper Code** and **Insper Fintech**  
-- 🧑‍🏫 Teaching Assistant for **DevLife** course  
+- 🧑‍🏫 Teaching Assistant for **AI & Robotics** course  
 - 🔬 Completed **Scientific Research in Intelligent Systems** (Insper)  
 - 🤝 Active in tech events and developer communities  
 - 📚 Constant self-learning in web apps, AI, and software architecture  
