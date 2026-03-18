@@ -48,25 +48,33 @@
 
 ## 🌐 Community & Activities  
 
-- 🧑‍🏫 Teaching Assistant for **AI & Robotics** course  
-- 🔬 Completed **Scientific Research in Intelligent Systems** (Insper)  
-- 🤝 Active in tech events and developer communities  
-- 📚 Constant self-learning in web apps, AI, and software architecture  
+- 🧑‍🏫 Teaching Assistant for **Artificial Intelligence & Robotics**, mentoring students in algorithms, system design, and software engineering practices  
+- 🔬 Conducted **research in Intelligent Systems**, focusing on data modeling and applied machine learning  
+- 🤝 Active in developer communities and tech events, collaborating on interdisciplinary projects  
+- 📚 Continuous learning in **distributed systems, AI/LLMs, and software architecture**
 
 ---
 
 ## 🚀 Highlight Projects  
 
-
 ### 🏙️ **Urban Research PWA – Placemaking**  
-- Progressive Web App for urban data collection and visualization.  
-- Built with **Go backend** and **Next.js frontend**, deployed on **Vercel**.  
-
+- Designed and built a **scalable distributed system** for urban data collection in collaboration with an Architecture and Urbanism research group  
+- Enabled **real-world impact**, contributing to a city-approved street redesign integrated into the Insper campus in partnership with São Paulo’s government  
+- Implemented **offline-first geolocated data collection** with synchronization across users  
+- Built backend services in **Go** and frontend in **Next.js**, deployed on **Vercel**  
+- Focus on **scalability, fault tolerance, and data-driven decision making**
+  
+### 📊 Metrics Project – Data Pipeline & Active Learning
+- Developed a **data pipeline** using web scraping to extract and structure large-scale unlabelled datasets  
+- Applied **machine learning with uncertainty sampling (active learning)** to label previously unseen data  
+- Designed a **semi-supervised workflow** to improve model performance while reducing manual labeling  
+- Building an **evidence-based platform** for data-driven insights and decision-making  
+- Technologies: Python, ML, Data Processing
+  
 ### 🎵 **SoundMorph**  
-- Web app for downloading videos and separating audio using **AI models**.  
-- **FastAPI backend** + **React/Next.js frontend**, media storage on **Supabase**.  
-
-### 🧩 **FastTracker HP**  
-- Web application built with **FastAPI + React**, focused on AI-assisted content management.  
+- Built a web platform for **audio/video processing using AI models**  
+- Implemented backend with **FastAPI** and frontend with **React/Next.js**  
+- Integrated media storage using **Supabase** with support for multiple formats  
+- Focus on **API design and media processing workflows**
 
 ---
