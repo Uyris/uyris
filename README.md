@@ -70,11 +70,5 @@
 - Designed a **semi-supervised workflow** to improve model performance while reducing manual labeling  
 - Building an **evidence-based platform** for data-driven insights and decision-making  
 - Technologies: Python, ML, Data Processing
-  
-### 🎵 **SoundMorph**  
-- Built a web platform for **audio/video processing using AI models**  
-- Implemented backend with **FastAPI** and frontend with **React/Next.js**  
-- Integrated media storage using **Supabase** with support for multiple formats  
-- Focus on **API design and media processing workflows**
 
 ---
