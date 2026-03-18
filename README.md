@@ -61,8 +61,6 @@
 - Designed and built a **scalable distributed system** for urban data collection in collaboration with an Architecture and Urbanism research group  
 - Enabled **real-world impact**, contributing to a city-approved street redesign integrated into the Insper campus in partnership with São Paulo’s government  
 - Implemented **offline-first geolocated data collection** with synchronization across users  
-- Built backend services in **Go** and frontend in **Next.js**, deployed on **Vercel**  
-- Focus on **scalability, fault tolerance, and data-driven decision making**
   
 ### 📊 Metrics Project – Data Pipeline & Active Learning
 - Developed a **data pipeline** using web scraping to extract and structure large-scale unlabelled datasets  
